@@ -18,3 +18,9 @@ npm run dev
 ```
 
 Go to `http://localhost:3000/feed`.
+
+## Running test
+To run test:
+```
+npm run test
+```
